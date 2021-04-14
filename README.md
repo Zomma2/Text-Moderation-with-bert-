@@ -1,5 +1,5 @@
 # Text Moderation using BERT-multilingual model (Transformers)
-[!alt text](https://www.researchgate.net/profile/Wissam-Antoun/publication/334770935/figure/fig4/AS:786813799120897@1564602436315/BERT-Fine-Tuning-Model-Architecture.jpg)
+[alt text](https://www.researchgate.net/profile/Wissam-Antoun/publication/334770935/figure/fig4/AS:786813799120897@1564602436315/BERT-Fine-Tuning-Model-Architecture.jpg)
 
 Based on Jigsaw Multilingual Toxic Comment Classification Dataset provided by **kaggle.com**
 ## Introduction 
