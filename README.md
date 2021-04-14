@@ -1,7 +1,6 @@
 # Text Moderation using BERT-multilingual model (Transformers)
-[alt text](https://www.researchgate.net/profile/Wissam-Antoun/publication/334770935/figure/fig4/AS:786813799120897@1564602436315/BERT-Fine-Tuning-Model-Architecture.jpg)
-
-Based on Jigsaw Multilingual Toxic Comment Classification Dataset provided by **kaggle.com**
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+<br>Based on Jigsaw Multilingual Toxic Comment Classification Dataset provided by **kaggle.com**
 ## Introduction 
 Using NLP Models to detect hatful and Toxic comments/Text has become more and more popular 
 <br>
